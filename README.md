@@ -5,6 +5,10 @@ This Github page provides the ipython notebooks, code and datasets used in my bl
 
 Each Folder corresponds to a post and is named accordingly.
 
+For lack of anything more to say, let me end the README with this wonderful passage by Larry.
+
+Enjoy...
+
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 Subject: Python versus Perl: A humorous look
@@ -14,8 +18,6 @@ Date: 10 Jul 1999 01:45:07 -0700
 This has been percolating in the back of my mind for a while.
 It's a scene from _The Empire Strikes Back_ reinterpreted to serve
 a valuable moral lesson for aspiring programmers.
-
---
 
 EXTERIOR: DAGOBAH -- DAY
       With Yoda strapped to his back, Luke climbs up one of
@@ -39,7 +41,6 @@ YODA: No... no... no.  Quicker, easier, more seductive.
 
 LUKE: But how will I know why Python is better than Perl?
 
-YODA: You will know.  When your code you try to read six months
-      from now.
+YODA: You will know.  When your code you try to read six months from now.
 
 ------------------------------------------------------------------------------------------------------
