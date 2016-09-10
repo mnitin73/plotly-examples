@@ -12,7 +12,9 @@ Enjoy...
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 Subject: Python versus Perl: A humorous look
+
 From: larry (funkster@midwinter.com)
+
 Date: 10 Jul 1999 01:45:07 -0700
 
 This has been percolating in the back of my mind for a while.
@@ -20,6 +22,7 @@ It's a scene from _The Empire Strikes Back_ reinterpreted to serve
 a valuable moral lesson for aspiring programmers.
 
 EXTERIOR: DAGOBAH -- DAY
+
       With Yoda strapped to his back, Luke climbs up one of
       the many thick vines that grow in the swamp until he
       reaches the Dagobah statistics lab. Panting heavily, he
